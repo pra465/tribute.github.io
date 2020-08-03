@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	position: relative;
+	text-align: center;
+}
+header h1{
+	text-transform: uppercase;
+	font-size: 100px;
+	font-family: 'Montserrat', sans-serif;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -0%);
+	color: #fff;
+}
+.achivments{
+	margin: 10px;
+}
+.achivments h2{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
+span{
+	color: #566573;
+}
+.main{
+	width: 1000px;
+	background-color: #fff;
+	position: absolute;
+	margin: 20px;
+	box-sizing: border-box;
+	left: 10%;
+	box-shadow: 0 0 20px 20px rgba(0,0,0,.2);
+}
+.achivements ol,li{
+	margin: 20px;
+}
+.facts {
+	text-align:  center;
+}
